@@ -47,14 +47,14 @@
 <!ENTITY for-a-full-list "Für eine komplette Liste siehe die ">
 <!ENTITY additional-settings "Weitere Einstellungen">
 <!ENTITY delimiter-multiple-authors "Trennzeichen zwischen mehreren Autoren">
-<!ENTITY add-user-input-to-filename "Benutzereingabe an Dateiname anhängen. Anfnagsvorgabe ist ">
+<!ENTITY add-user-input-to-filename "Benutzereingabe an Dateinamen anhängen. Anfangsvorgabe ist ">
 <!ENTITY lower-case "Kleinbuchstaben verwenden">
 <!ENTITY replace-blanks "Leerzeichen ersetzen">
 <!ENTITY truncate-title "Titel nach . oder : oder ? abschneiden">
 <!ENTITY zotfile-truncate_title_max "Maximale Länge des Titels">
 <!ENTITY zotfile-truncate_authors "Maximale Anzahl an Autoren">
-<!ENTITY zotfile-number_truncate_authors "Anzahl der Autoren angezeigt wird, wenn Autoren weggelassen werden">
-<!ENTITY zotfile-add_etal "Suffix anfügen falls Autoren ausgelassen werden">
+<!ENTITY zotfile-number_truncate_authors "Anzahl an Autoren welche angezeigt wird, wenn Autoren weggelassen werden">
+<!ENTITY zotfile-add_etal "Suffix anfügen, falls Autoren weggelassen werden">
 <!ENTITY extract-annotations "Annotationen und hervorgehobenen Text aus PDF Datei herauskopieren">
 <!ENTITY extract-annotations-and-highlighted-text "ZotFile kann Annotationen und hervorgehobenen Text aus Ihren PDF Anhängen herauskopieren.">
 <!ENTITY extraction-method "Methode zur Erstellung der Textauszüge">
